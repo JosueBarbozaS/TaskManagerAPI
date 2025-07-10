@@ -276,6 +276,6 @@ La API está configurada para aceptar requests desde cualquier origen en desarro
 ## 👨‍💻 **Autor**
 
 **Tu Nombre**
-- LinkedIn: [tu-perfil-linkedin](https://www.linkedin.com/in/josue-barboza-250566267/)
+- LinkedIn: (https://www.linkedin.com/in/josue-barboza-250566267/)
 - Email: jabs9606@gmail.com
-- Portfolio: [tu-portfolio.com](https://josuebarboza.netlify.app/)
+- Portfolio: (https://josuebarboza.netlify.app/)
