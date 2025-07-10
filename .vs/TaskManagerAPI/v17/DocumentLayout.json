@@ -1,0 +1,510 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jabs0\\OneDrive\\Desktop\\TaskManagerAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB40FF2-70B4-47A0-8D6F-81B0DB49E797}|TaskManagerAPI.csproj|c:\\users\\jabs0\\onedrive\\desktop\\taskmanagerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EFB40FF2-70B4-47A0-8D6F-81B0DB49E797}|TaskManagerAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB40FF2-70B4-47A0-8D6F-81B0DB49E797}|TaskManagerAPI.csproj|c:\\users\\jabs0\\onedrive\\desktop\\taskmanagerapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFB40FF2-70B4-47A0-8D6F-81B0DB49E797}|TaskManagerAPI.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB40FF2-70B4-47A0-8D6F-81B0DB49E797}|TaskManagerAPI.csproj|c:\\users\\jabs0\\onedrive\\desktop\\taskmanagerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFB40FF2-70B4-47A0-8D6F-81B0DB49E797}|TaskManagerAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB40FF2-70B4-47A0-8D6F-81B0DB49E797}|TaskManagerAPI.csproj|c:\\users\\jabs0\\onedrive\\desktop\\taskmanagerapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFB40FF2-70B4-47A0-8D6F-81B0DB49E797}|TaskManagerAPI.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB40FF2-70B4-47A0-8D6F-81B0DB49E797}|TaskManagerAPI.csproj|c:\\users\\jabs0\\onedrive\\desktop\\taskmanagerapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFB40FF2-70B4-47A0-8D6F-81B0DB49E797}|TaskManagerAPI.csproj|solutionrelative:controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB40FF2-70B4-47A0-8D6F-81B0DB49E797}|TaskManagerAPI.csproj|c:\\users\\jabs0\\onedrive\\desktop\\taskmanagerapi\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFB40FF2-70B4-47A0-8D6F-81B0DB49E797}|TaskManagerAPI.csproj|solutionrelative:controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB40FF2-70B4-47A0-8D6F-81B0DB49E797}|TaskManagerAPI.csproj|c:\\users\\jabs0\\onedrive\\desktop\\taskmanagerapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFB40FF2-70B4-47A0-8D6F-81B0DB49E797}|TaskManagerAPI.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB40FF2-70B4-47A0-8D6F-81B0DB49E797}|TaskManagerAPI.csproj|c:\\users\\jabs0\\onedrive\\desktop\\taskmanagerapi\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFB40FF2-70B4-47A0-8D6F-81B0DB49E797}|TaskManagerAPI.csproj|solutionrelative:services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB40FF2-70B4-47A0-8D6F-81B0DB49E797}|TaskManagerAPI.csproj|c:\\users\\jabs0\\onedrive\\desktop\\taskmanagerapi\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFB40FF2-70B4-47A0-8D6F-81B0DB49E797}|TaskManagerAPI.csproj|solutionrelative:services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB40FF2-70B4-47A0-8D6F-81B0DB49E797}|TaskManagerAPI.csproj|c:\\users\\jabs0\\onedrive\\desktop\\taskmanagerapi\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFB40FF2-70B4-47A0-8D6F-81B0DB49E797}|TaskManagerAPI.csproj|solutionrelative:services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB40FF2-70B4-47A0-8D6F-81B0DB49E797}|TaskManagerAPI.csproj|c:\\users\\jabs0\\onedrive\\desktop\\taskmanagerapi\\taskmanagerapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EFB40FF2-70B4-47A0-8D6F-81B0DB49E797}|TaskManagerAPI.csproj|solutionrelative:taskmanagerapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB40FF2-70B4-47A0-8D6F-81B0DB49E797}|TaskManagerAPI.csproj|c:\\users\\jabs0\\onedrive\\desktop\\taskmanagerapi\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFB40FF2-70B4-47A0-8D6F-81B0DB49E797}|TaskManagerAPI.csproj|solutionrelative:interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB40FF2-70B4-47A0-8D6F-81B0DB49E797}|TaskManagerAPI.csproj|c:\\users\\jabs0\\onedrive\\desktop\\taskmanagerapi\\interfaces\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFB40FF2-70B4-47A0-8D6F-81B0DB49E797}|TaskManagerAPI.csproj|solutionrelative:interfaces\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB40FF2-70B4-47A0-8D6F-81B0DB49E797}|TaskManagerAPI.csproj|c:\\users\\jabs0\\onedrive\\desktop\\taskmanagerapi\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFB40FF2-70B4-47A0-8D6F-81B0DB49E797}|TaskManagerAPI.csproj|solutionrelative:interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB40FF2-70B4-47A0-8D6F-81B0DB49E797}|TaskManagerAPI.csproj|c:\\users\\jabs0\\onedrive\\desktop\\taskmanagerapi\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFB40FF2-70B4-47A0-8D6F-81B0DB49E797}|TaskManagerAPI.csproj|solutionrelative:interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB40FF2-70B4-47A0-8D6F-81B0DB49E797}|TaskManagerAPI.csproj|c:\\users\\jabs0\\onedrive\\desktop\\taskmanagerapi\\data\\taskmanagerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFB40FF2-70B4-47A0-8D6F-81B0DB49E797}|TaskManagerAPI.csproj|solutionrelative:data\\taskmanagerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB40FF2-70B4-47A0-8D6F-81B0DB49E797}|TaskManagerAPI.csproj|c:\\users\\jabs0\\onedrive\\desktop\\taskmanagerapi\\dtos\\taskstatisticsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFB40FF2-70B4-47A0-8D6F-81B0DB49E797}|TaskManagerAPI.csproj|solutionrelative:dtos\\taskstatisticsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB40FF2-70B4-47A0-8D6F-81B0DB49E797}|TaskManagerAPI.csproj|c:\\users\\jabs0\\onedrive\\desktop\\taskmanagerapi\\dtos\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFB40FF2-70B4-47A0-8D6F-81B0DB49E797}|TaskManagerAPI.csproj|solutionrelative:dtos\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB40FF2-70B4-47A0-8D6F-81B0DB49E797}|TaskManagerAPI.csproj|c:\\users\\jabs0\\onedrive\\desktop\\taskmanagerapi\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFB40FF2-70B4-47A0-8D6F-81B0DB49E797}|TaskManagerAPI.csproj|solutionrelative:dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB40FF2-70B4-47A0-8D6F-81B0DB49E797}|TaskManagerAPI.csproj|c:\\users\\jabs0\\onedrive\\desktop\\taskmanagerapi\\dtos\\taskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFB40FF2-70B4-47A0-8D6F-81B0DB49E797}|TaskManagerAPI.csproj|solutionrelative:dtos\\taskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB40FF2-70B4-47A0-8D6F-81B0DB49E797}|TaskManagerAPI.csproj|c:\\users\\jabs0\\onedrive\\desktop\\taskmanagerapi\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFB40FF2-70B4-47A0-8D6F-81B0DB49E797}|TaskManagerAPI.csproj|solutionrelative:dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB40FF2-70B4-47A0-8D6F-81B0DB49E797}|TaskManagerAPI.csproj|c:\\users\\jabs0\\onedrive\\desktop\\taskmanagerapi\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFB40FF2-70B4-47A0-8D6F-81B0DB49E797}|TaskManagerAPI.csproj|solutionrelative:models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB40FF2-70B4-47A0-8D6F-81B0DB49E797}|TaskManagerAPI.csproj|c:\\users\\jabs0\\onedrive\\desktop\\taskmanagerapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFB40FF2-70B4-47A0-8D6F-81B0DB49E797}|TaskManagerAPI.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB40FF2-70B4-47A0-8D6F-81B0DB49E797}|TaskManagerAPI.csproj|c:\\users\\jabs0\\onedrive\\desktop\\taskmanagerapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFB40FF2-70B4-47A0-8D6F-81B0DB49E797}|TaskManagerAPI.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 384,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\jabs0\\OneDrive\\Desktop\\TaskManagerAPI\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\jabs0\\OneDrive\\Desktop\\TaskManagerAPI\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAswGUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T00:44:22.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\jabs0\\OneDrive\\Desktop\\TaskManagerAPI\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\jabs0\\OneDrive\\Desktop\\TaskManagerAPI\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAgwFoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T00:43:53.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "C:\\Users\\jabs0\\OneDrive\\Desktop\\TaskManagerAPI\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TasksController.cs",
+              "ToolTip": "C:\\Users\\jabs0\\OneDrive\\Desktop\\TaskManagerAPI\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "Controllers\\TasksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T00:43:22.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\jabs0\\OneDrive\\Desktop\\TaskManagerAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\jabs0\\OneDrive\\Desktop\\TaskManagerAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T00:42:50.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\jabs0\\OneDrive\\Desktop\\TaskManagerAPI\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\jabs0\\OneDrive\\Desktop\\TaskManagerAPI\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T00:42:06.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\jabs0\\OneDrive\\Desktop\\TaskManagerAPI\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\jabs0\\OneDrive\\Desktop\\TaskManagerAPI\\Services\\CategoryService.cs",
+              "RelativeToolTip": "Services\\CategoryService.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAQwLsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T00:39:59.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TaskService.cs",
+              "DocumentMoniker": "C:\\Users\\jabs0\\OneDrive\\Desktop\\TaskManagerAPI\\Services\\TaskService.cs",
+              "RelativeDocumentMoniker": "Services\\TaskService.cs",
+              "ToolTip": "C:\\Users\\jabs0\\OneDrive\\Desktop\\TaskManagerAPI\\Services\\TaskService.cs",
+              "RelativeToolTip": "Services\\TaskService.cs",
+              "ViewState": "AgIAAAABAAAAAAAAAAAwwCkBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T00:39:21.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jabs0\\OneDrive\\Desktop\\TaskManagerAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\jabs0\\OneDrive\\Desktop\\TaskManagerAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAClAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-10T00:31:28.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jabs0\\OneDrive\\Desktop\\TaskManagerAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\jabs0\\OneDrive\\Desktop\\TaskManagerAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T00:30:59.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\jabs0\\OneDrive\\Desktop\\TaskManagerAPI\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\jabs0\\OneDrive\\Desktop\\TaskManagerAPI\\Services\\AuthService.cs",
+              "RelativeToolTip": "Services\\AuthService.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T00:36:28.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\jabs0\\OneDrive\\Desktop\\TaskManagerAPI\\Interfaces\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\jabs0\\OneDrive\\Desktop\\TaskManagerAPI\\Interfaces\\ICategoryService.cs",
+              "RelativeToolTip": "Interfaces\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T00:35:55.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ITaskService.cs",
+              "DocumentMoniker": "C:\\Users\\jabs0\\OneDrive\\Desktop\\TaskManagerAPI\\Interfaces\\ITaskService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ITaskService.cs",
+              "ToolTip": "C:\\Users\\jabs0\\OneDrive\\Desktop\\TaskManagerAPI\\Interfaces\\ITaskService.cs",
+              "RelativeToolTip": "Interfaces\\ITaskService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T00:35:34.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\jabs0\\OneDrive\\Desktop\\TaskManagerAPI\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\jabs0\\OneDrive\\Desktop\\TaskManagerAPI\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T00:35:12.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\jabs0\\OneDrive\\Desktop\\TaskManagerAPI\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\jabs0\\OneDrive\\Desktop\\TaskManagerAPI\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T00:34:56.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TaskManagerDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\jabs0\\OneDrive\\Desktop\\TaskManagerAPI\\Data\\TaskManagerDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\TaskManagerDbContext.cs",
+              "ToolTip": "C:\\Users\\jabs0\\OneDrive\\Desktop\\TaskManagerAPI\\Data\\TaskManagerDbContext.cs",
+              "RelativeToolTip": "Data\\TaskManagerDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T00:30:10.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TaskManagerAPI",
+              "DocumentMoniker": "C:\\Users\\jabs0\\OneDrive\\Desktop\\TaskManagerAPI\\TaskManagerAPI.csproj",
+              "RelativeDocumentMoniker": "TaskManagerAPI.csproj",
+              "ToolTip": "C:\\Users\\jabs0\\OneDrive\\Desktop\\TaskManagerAPI\\TaskManagerAPI.csproj",
+              "RelativeToolTip": "TaskManagerAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-10T00:29:57.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TaskStatisticsDto.cs",
+              "DocumentMoniker": "C:\\Users\\jabs0\\OneDrive\\Desktop\\TaskManagerAPI\\DTOs\\TaskStatisticsDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\TaskStatisticsDto.cs",
+              "ToolTip": "C:\\Users\\jabs0\\OneDrive\\Desktop\\TaskManagerAPI\\DTOs\\TaskStatisticsDto.cs",
+              "RelativeToolTip": "DTOs\\TaskStatisticsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T00:29:21.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\jabs0\\OneDrive\\Desktop\\TaskManagerAPI\\DTOs\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "DTOs\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\jabs0\\OneDrive\\Desktop\\TaskManagerAPI\\DTOs\\ApiResponse.cs",
+              "RelativeToolTip": "DTOs\\ApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T00:29:04.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\jabs0\\OneDrive\\Desktop\\TaskManagerAPI\\DTOs\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\CategoryDto.cs",
+              "ToolTip": "C:\\Users\\jabs0\\OneDrive\\Desktop\\TaskManagerAPI\\DTOs\\CategoryDto.cs",
+              "RelativeToolTip": "DTOs\\CategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwBsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T00:28:37.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TaskDto.cs",
+              "DocumentMoniker": "C:\\Users\\jabs0\\OneDrive\\Desktop\\TaskManagerAPI\\DTOs\\TaskDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\TaskDto.cs",
+              "ToolTip": "C:\\Users\\jabs0\\OneDrive\\Desktop\\TaskManagerAPI\\DTOs\\TaskDto.cs",
+              "RelativeToolTip": "DTOs\\TaskDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T00:28:11.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\jabs0\\OneDrive\\Desktop\\TaskManagerAPI\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\UserDto.cs",
+              "ToolTip": "C:\\Users\\jabs0\\OneDrive\\Desktop\\TaskManagerAPI\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "DTOs\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T00:27:34.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\jabs0\\OneDrive\\Desktop\\TaskManagerAPI\\Models\\Task.cs",
+              "RelativeDocumentMoniker": "Models\\Task.cs",
+              "ToolTip": "C:\\Users\\jabs0\\OneDrive\\Desktop\\TaskManagerAPI\\Models\\Task.cs",
+              "RelativeToolTip": "Models\\Task.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T00:26:45.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\jabs0\\OneDrive\\Desktop\\TaskManagerAPI\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\jabs0\\OneDrive\\Desktop\\TaskManagerAPI\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T00:26:15.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\jabs0\\OneDrive\\Desktop\\TaskManagerAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\jabs0\\OneDrive\\Desktop\\TaskManagerAPI\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T00:24:47.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 16,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
